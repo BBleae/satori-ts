@@ -1,12 +1,13 @@
-# Screeps Typescript Starter
+# Satori
 
-Screeps Typescript Starter is a starting point for a Screeps AI written in Typescript. It provides everything you need to start writing your AI whilst leaving `main.ts` as empty as possible.
+![SAtori](docs/satori.png)
+Satori is a Screeps AI written in Typescript.
 
 ## Basic Usage
 
 You will need:
 
-- [Node.JS](https://nodejs.org/en/download) (10.x || 12.x)
+- [Node.JS](https://nodejs.org/en/download) (18.x)
 - A Package Manager ([Yarn](https://yarnpkg.com/en/docs/getting-started) or [npm](https://docs.npmjs.com/getting-started/installing-node))
 - Rollup CLI (Optional, install via `npm install -g rollup`)
 
