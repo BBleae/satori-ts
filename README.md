@@ -1,6 +1,7 @@
 # Satori
 
 ![SAtori](docs/satori.png)
+
 Satori is a Screeps AI written in Typescript.
 
 ## Basic Usage
